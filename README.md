@@ -1,1 +1,1 @@
-### Hi there , am a french student in infomatique in second year.
+### Hello there , am a french student in infomatique in second year.
