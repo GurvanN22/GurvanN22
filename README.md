@@ -1,4 +1,4 @@
-#  👋  Hi , am Gurvan Nicolas and am a french student 
+#  👋  Hi , am EXPOSE and am a french student 
 
 Here some of tools and languages that am using :
 
