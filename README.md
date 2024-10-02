@@ -1,4 +1,4 @@
-#  👋  Hi , am Gurvan Nicolas and am a french student in second year. I like developed all sort of things but the best is cyber-security
+#  👋  Hi , am Gurvan Nicolas and am a french student 
 
 Here some of tools and languages that am using :
 
